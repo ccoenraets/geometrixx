@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc544a9b-e777-48be-b163-ba4e9d124d61" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/img/Avatar_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/img/Avatar_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/img/Avatar_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/img/Avatar_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/img/Avatar_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/img/Avatar_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/tpl/Blog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/views/BlogView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/tpl/Feed.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/tpl/FeedList.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/views/FeedListView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/views/FeedView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/tpl/Menu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/views/Menu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/css/images/camera.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/context.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/models/memory/feed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.idea/www.iml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/css/topcoat-mobile-dark.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/css/topcoat-mobile-dark.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/css/topcoat-mobile-light.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/css/topcoat-mobile-light.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/font/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/font/SourceCodePro-Black.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/font/SourceCodePro-Bold.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/font/SourceCodePro-ExtraLight.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/font/SourceCodePro-Light.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/font/SourceCodePro-Regular.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/font/SourceCodePro-Semibold.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/font/SourceSansPro-Black.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/font/SourceSansPro-BlackIt.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/font/SourceSansPro-Bold.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/font/SourceSansPro-BoldIt.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/font/SourceSansPro-ExtraLight.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/font/SourceSansPro-ExtraLightIt.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/font/SourceSansPro-It.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/font/SourceSansPro-Light.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/font/SourceSansPro-LightIt.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/font/SourceSansPro-Regular.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/font/SourceSansPro-Semibold.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/font/SourceSansPro-SemiboldIt.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/img/avatar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/img/bg_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/img/breadcrumb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/img/checkbox_checked.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/img/checkbox_checked_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/img/checkbox_unchecked.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/img/checkbox_unchecked_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/img/dark-combo-box-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/img/dark-combo-box-bg2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/img/dark-grips.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/img/dark-sprites2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/img/dialog-zone-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/img/drop-down-triangle-dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/img/drop-down-triangle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/img/hamburger_bw.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/img/hamburger_dark.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/img/hamburger_light.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/img/light-combo-box-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/img/light-combo-box-bg2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/img/light-grips.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/img/light-sprites2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/img/pop-up-triangle-dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/img/pop-up-triangle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/img/search-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/img/search-bg2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/img/search.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/img/search_bw.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/img/search_dark.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/img/search_light.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/img/spinner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/assets/topcoat/img/spinner2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/js/HomeView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/js/ProductView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/js/adapters/product-jsonp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/js/adapters/product-memory.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/tpl/ProductListItem.html" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/www/assets/topcoat/img/checkmark_bw.svg" afterPath="$PROJECT_DIR$/www/assets/css/images/search.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/assets/css/images/star1.png" afterPath="$PROJECT_DIR$/www/assets/css/images/star1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/assets/css/images/star2.png" afterPath="$PROJECT_DIR$/www/assets/css/images/star2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/assets/css/images/star3.png" afterPath="$PROJECT_DIR$/www/assets/css/images/star3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/assets/css/images/star4.png" afterPath="$PROJECT_DIR$/www/assets/css/images/star4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/assets/css/images/star5.png" afterPath="$PROJECT_DIR$/www/assets/css/images/star5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/tpl/Home.html" afterPath="$PROJECT_DIR$/www/tpl/Home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/utils/PageSlider.js" afterPath="$PROJECT_DIR$/www/js/utils/PageSlider.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/tpl/Product.html" afterPath="$PROJECT_DIR$/www/tpl/Product.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/app.js" afterPath="$PROJECT_DIR$/www/js/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/assets/css/images/back_light.svg" afterPath="$PROJECT_DIR$/www/assets/css/images/back_light.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/assets/css/images/next.svg" afterPath="$PROJECT_DIR$/www/assets/css/images/next.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/assets/css/images/next_blue.svg" afterPath="$PROJECT_DIR$/www/assets/css/images/next_blue.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/assets/css/pageslider.css" afterPath="$PROJECT_DIR$/www/assets/css/pageslider.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/router.js" afterPath="$PROJECT_DIR$/www/js/router.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/assets/css/images/star_selected.svg" afterPath="$PROJECT_DIR$/www/assets/css/images/star_selected.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/assets/css/styles.css" afterPath="$PROJECT_DIR$/www/assets/css/styles.css" />
+    </list>
+    <ignored path="phonegap-day-eu-app.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="phonegap-day-eu-app" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="HomeView.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/js/views/HomeView.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="48" selection-start="897" selection-end="897" vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="960">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Home.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www/tpl/Home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="0" selection-start="37" selection-end="261" vertical-scroll-proportion="0.07377049" vertical-offset="0" max-vertical-offset="1220">
+              <folding>
+                <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Product.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/tpl/Product.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="69" selection-start="824" selection-end="824" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="720">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/assets/css/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="383" column="0" selection-start="6409" selection-end="6409" vertical-scroll-proportion="0.0" vertical-offset="5745" max-vertical-offset="8625">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="camera.svg" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/assets/css/images/camera.svg">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="6" selection-start="1256" selection-end="1256" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="315">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProductView.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/js/views/ProductView.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="84" column="0" selection-start="1009" selection-end="3167" vertical-scroll-proportion="0.0" vertical-offset="1260" max-vertical-offset="1425">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BlogView.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/js/views/BlogView.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="35" selection-start="452" selection-end="452" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="435">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="product.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/js/models/memory/product.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="253" column="28" selection-start="10947" selection-end="10947" vertical-scroll-proportion="0.0" vertical-offset="3795" max-vertical-offset="5460">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Blog.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/tpl/Blog.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="0" selection-start="0" selection-end="2093" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="630">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/www/js/views/FeedView.js" />
+        <option value="$PROJECT_DIR$/www/tpl/FeedList.html" />
+        <option value="$PROJECT_DIR$/www/js/models/memory/feed.js" />
+        <option value="$PROJECT_DIR$/www/js/views/BlogView.js" />
+        <option value="$PROJECT_DIR$/www/tpl/Menu.html" />
+        <option value="$PROJECT_DIR$/www/js/app.js" />
+        <option value="$PROJECT_DIR$/www/js/views/ProductListView.js" />
+        <option value="$PROJECT_DIR$/www/js/context.js" />
+        <option value="$PROJECT_DIR$/www/js/router.js" />
+        <option value="$PROJECT_DIR$/www/js/views/Menu.js" />
+        <option value="$PROJECT_DIR$/www/js/views/HomeView.js" />
+        <option value="$PROJECT_DIR$/www/tpl/Product.html" />
+        <option value="$PROJECT_DIR$/www/assets/css/styles.css" />
+        <option value="$PROJECT_DIR$/www/js/views/ProductView.js" />
+        <option value="$PROJECT_DIR$/www/tpl/blog.html" />
+        <option value="$PROJECT_DIR$/www/js/models/memory/product.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="2560" />
+    <option name="height" value="1367" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geometrixx" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geometrixx" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geometrixx" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geometrixx" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geometrixx" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../keypoint" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/www/assets/css/images" />
+      <recent name="$PROJECT_DIR$/www/js" />
+      <recent name="$PROJECT_DIR$/www/js/views" />
+      <recent name="$PROJECT_DIR$/www/js/models/memory" />
+      <recent name="$PROJECT_DIR$/www/tpl" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/www/assets/img" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="name" value="Dart" />
+      <option name="saveOutputToFile" value="false" />
+      <option name="showConsoleOnStdErr" value="false" />
+      <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <browser start="false" url="" with-js-debugger="false" />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc544a9b-e777-48be-b163-ba4e9d124d61" name="Default" comment="" />
+      <created>1379881121033</created>
+      <updated>1379881121033</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1379881406945</created>
+      <updated>1379881406945</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1379881683168</created>
+      <updated>1379881683168</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="2560" height="1367" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2625" sideWeight="0.6705471" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32945284" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/www/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="0" selection-start="1234" selection-end="1234" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/tpl/Menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="73" selection-start="1494" selection-end="1494" vertical-scroll-proportion="-21.875" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/views/ProductListView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="37" selection-start="420" selection-end="420" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/context.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="42" selection-start="361" selection-end="361" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="43" selection-start="358" selection-end="358" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/views/Menu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="28" selection-start="501" selection-end="501" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/views/HomeView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="48" selection-start="897" selection-end="897" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/tpl/Product.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="69" selection-start="824" selection-end="824" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="720">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/assets/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="383" column="0" selection-start="6409" selection-end="6409" vertical-scroll-proportion="0.0" vertical-offset="5745" max-vertical-offset="8625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/assets/css/images/camera.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="6" selection-start="1256" selection-end="1256" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/tpl/Blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="0" selection-end="2093" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="630">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/views/BlogView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="35" selection-start="452" selection-end="452" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/models/memory/product.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="253" column="28" selection-start="10947" selection-end="10947" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/views/ProductView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="84" column="0" selection-start="1009" selection-end="3167" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/tpl/Home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="37" selection-end="261" vertical-scroll-proportion="0.07377049" vertical-offset="0" max-vertical-offset="1220">
+          <folding>
+            <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
